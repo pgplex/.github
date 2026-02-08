@@ -1,6 +1,6 @@
 # pgplex: Modern Developer Stack for Postgres 🐘
 
-We’re building a modern Postgres toolchain for everyone from individual developers to the enterprise.
+We’re building a modern Postgres toolchain for everyone from individual developers to the enterprise. https://www.pgplex.com
 
 - [pgsconsole](https://github.com/pgplex/pgconsole) - Web-based Postgres development workspace with guardrails
 - [pgtui](https://github.com/pgplex/pgtui) - Postgres TUI
