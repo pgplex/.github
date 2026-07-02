@@ -1,8 +1,8 @@
-# pgplex: Modern Developer Stack for Postgres 🐘
+# pgplex: The Postgres Toolchain for Humans and Agents
 
-We’re building a modern Postgres toolchain for everyone from individual developers to the enterprise.
+![](https://raw.githubusercontent.com/pgplex/.github/refs/heads/main/asset/pgplex-banner.png)
 
-- [pgsconsole](https://github.com/pgplex/pgconsole) - Minimal Postgres editor for speed and collaboration
-- [pgtui](https://github.com/pgplex/pgtui) - Postgres TUI
+- [pgsconsole](https://github.com/pgplex/pgconsole) - Minimal Postgres editor and MCP server with guardrails
 - [pgschema](https://github.com/pgplex/pgschema) - Terraform-style, declarative schema migration CLI for Postgres
-- [pgparser](https://github.com/pgplex/pgparser) - Thread-safe, Golang-native Postgres parser
+- [pgtui](https://github.com/pgplex/pgtui) - Postgres TUI
+- [pgparser](https://github.com/pgplex/pgparser) - Golang-native, thread-safe Postgres parser
